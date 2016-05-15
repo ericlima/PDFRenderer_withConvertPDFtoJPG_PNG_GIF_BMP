@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PDFRenderer-full-0.9.1-:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PDFRenderer_full_0_9_1__jar</output-path>
+    <root id="archive" name="PDFRenderer-full-0.9.1-.jar">
+      <element id="module-output" name="PDFRenderer-full-0.9.1-" />
+      <element id="module-output" name="demos" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/PDFRenderer-0.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/imgscalr/imgscalr-lib/4.2/imgscalr-lib-4.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
