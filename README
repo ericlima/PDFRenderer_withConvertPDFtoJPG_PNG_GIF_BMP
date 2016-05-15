@@ -5,3 +5,22 @@ possibly being higher than 0.9.1. Apologies for any confusion.
 
 http://java.net/projects/pdf-renderer
 
+
+This program ready to import into intellij IDE and it dose open PDF and convert the file pages
+into images of different extensions BMP,PNG,GIF,JPG.
+
+the project uses libraries:
+1-PDF rederer.
+2-MultiShow.
+
+*TODO:
+1- add zoom feature.
+2- add settings dialog to make it possible to change the path of storing the images
+3- add settings dialog to make it possible to read pdf from database and write the images to database.
+
+
+
+Thanks References:
+
+Thanks to www.stackoverflow.com to make this possible for solving many issues.
+icons from www.findicons.com
